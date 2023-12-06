@@ -1,0 +1,1 @@
+{"map_file_path": "grid_maps/Ihlen/occ_grid_small.txt", "start_pos": [75, 54], "goal_pos": [41, 74], "robot_rows": [75, 75, 75], "robot_cols": [54, 54, 54], "robot_speeds": [0, 0, 0], "robot_directions": [0, 0, 3], "action_accs": [-1, -1], "action_rots": [0, -1], "steps": 2, "is_goal": false}
